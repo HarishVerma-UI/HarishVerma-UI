@@ -28,7 +28,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **BRAC IT**
+- 🏢 I'm currently working at **DEVON Bengaluru**
 - ⚙️ I use daily: `.ts`, `.js`, `.scss`, `.net`,`git`
 - 🌍 I'm mostly active within the **javascript Community**
 - 🌱 Learning all about **javascript**
