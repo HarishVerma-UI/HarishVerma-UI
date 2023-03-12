@@ -23,10 +23,19 @@
 
 #### Recent Activity
 
-<p><b> &#9749; Latest Medium Blogs</b></p>
+<p><b> &#9749; Latest Blogs</b></p>
 
 <a target="_blank" href="https://www.devonblog.com/software-development/tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs/">Tailwind CSS</a>
 
+<a target="_blank" href="https://www.devonblog.com/software-development/tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs"
+">Sharing Data Between Micro Frontends in Angular</a>
+
+ <a target="_blank" href="https://www.devonblog.com/software-development/tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs"
+">Sharing Data Between Micro Frontends in Angular</a>
+
+<a href="https://www.facebook.com/harish.verma.96155">
+  <img src="https://www.devonblog.com/continuous-delivery/package-managers-in-javascript/" height=25>Package Managers in JavaScript</a>
+</a>
 
 #### Connect With Me
 
