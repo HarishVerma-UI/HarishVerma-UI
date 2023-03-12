@@ -1,4 +1,3 @@
-
 ## Hi 👋, I'm a software engineer working in Bengaluru, India 
 
 #### Now
@@ -27,11 +26,9 @@
 
 <a target="_blank" href="https://www.devonblog.com/software-development/tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs/">Tailwind CSS</a>
 
-<a target="_blank" href="https://www.devonblog.com/software-development/tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs"
-">Sharing Data Between Micro Frontends in Angular</a>
+<a target="_blank" href="https://www.devonblog.com/software-development/tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs/">Sharing Data Between Micro Frontends in Angular</a>
 
-<a target="_blank" href="https://www.devonblog.com/continuous-delivery/package-managers-in-javascript/"
-">Package Managers in JavaScript</a>
+<a target="_blank" href="https://www.devonblog.com/continuous-delivery/package-managers-in-javascript/">Package Managers in JavaScript</a>
 
 #### Connect With Me
 
