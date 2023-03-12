@@ -16,7 +16,7 @@
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/harish-verma-831599a7/))
 - 📝 Checkout my [Resume](https://github.com/harishwordpress/harishcv/raw/master/Harish-Verma.pdf).
 
-#### My Current Stack
+#### My Current Stack : ANGULAR 2+ , Tailwind , HTML 5 ,TYPESCRIPT ,RXJS ,JEST  
 
 #### Development Stuffs:
 
