@@ -1,7 +1,7 @@
 # Hi 👋, I'm Harish, a Software Engineer based in Bengaluru, India
 
 ### Download my Cv 
-![Harish Kumar Verma](https://github.com/harishwordpress/harishcv/raw/master/cv.png))
+![Harish Kumar Verma](https://github.com/harishwordpress/harishcv/raw/master/cv.png)
 
 ### Now
 
