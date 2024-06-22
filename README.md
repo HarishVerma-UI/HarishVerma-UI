@@ -1,42 +1,86 @@
-## Hi 👋, I'm a software engineer working in Bengaluru, India 
+# Hi 👋, I'm Harish, a Software Engineer based in Bengaluru, India
 
-#### Now
+### Download my Cv 
+![Harish Kumar Verma](https://github.com/harishwordpress/harishcv/raw/master/cv.png))
 
-- ✨ Contributing to [Harish](https://github.com/harishwordpress);
-- :fire: Interested in Front-end and Angular;
-- :calendar: Looking for contributing to python based open source projects 
+### Now
 
-#### Bio
+- ✨ Contributing to [Harish](https://github.com/HarishVerma-UI)
+- 🔥 Interested in Front-end and Angular
+- 📅 Looking to contribute to Python-based open-source projects
 
-- 🏢 I'm currently working at **DEVON Bengaluru**
-- ⚙️ I use daily: `.ts`, `.js`, `.scss`, `.net`,`git`
-- 🌍 I'm mostly active within the **javascript Community**
-- 🌱 Learning all about **javascript**
-- 💬 Ping me about **javacscript**, **angular**, **css**, **RestAPIs**, **jest**
-- 📫 Reach me: [linkedin](https://www.linkedin.com/in/harish-verma-831599a7/))
-- 📝 Checkout my [Resume](https://github.com/harishwordpress/harishcv/raw/master/HarishKumarVerma.pdf).
+### Bio
 
-#### My Current Stack : ANGULAR 2+ , Tailwind , HTML 5 ,TYPESCRIPT ,RXJS ,JEST  
+- 🏢 Currently working at **DEVON Bengaluru**
+- ⚙️ Daily use: `.ts`, `.js`, `.scss`, `.net`, `git`
+- 🌍 Active in the **JavaScript community**
+- 🌱 Learning all about **JavaScript**
+- 💬 Ping me about **JavaScript**, **Angular**, **CSS**, **REST APIs**, **Jest**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/harish-verma-831599a7/)
+- 📝 Check out my [Resume](https://github.com/harishwordpress/harishcv/raw/master/HarishKumarVerma.pdf)
 
-#### Development Stuffs:
+### My Current Stack
 
-#### Recent Activity
+- **Angular 2+**
+- **Tailwind CSS**
+- **HTML5**
+- **TypeScript**
+- **RxJS**
+- **Jest**
 
-<p><b> &#9749; Latest Blogs</b></p>
+### Development Stuffs
 
-<a target="_blank" href="https://www.devonblog.com/software-development/tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs/">Tailwind CSS</a>
+### Recent Activity
 
-<a target="_blank" href="https://www.devonblog.com/software-development/tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs/">Sharing Data Between Micro Frontends in Angular</a>
+**☕ Latest Blogs:**
 
-<a target="_blank" href="https://www.devonblog.com/continuous-delivery/package-managers-in-javascript/">Package Managers in JavaScript</a>
+- [Tailwind CSS: A Utility-First CSS Framework for Rapidly Building Custom Designs](https://www.devonblog.com/software-development/tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs/)
+- [Sharing Data Between Micro Frontends in Angular](https://www.devonblog.com/software-development/tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs/)
+- [Package Managers in JavaScript](https://www.devonblog.com/continuous-delivery/package-managers-in-javascript/)
 
-#### Connect With Me
+### Work Experience
 
-<p left="center">
-<a href="https://www.linkedin.com/in/sudiptob2/">
+1. **UI Developer at Devon (Service-Based), Bangalore**  
+   May 2021 - Present
+   - Developed and maintained tax software using Angular and Nx.
+   - Implemented unit testing with Karma and utilized Git for version control.
+   - Followed Agile methodologies for project management and development.
+   - Technologies: Angular, Nx, JavaScript, Karma, Git, GitHub Copilot, Agile, HTML5, CSS3, .NET (backend), Azure DevOps
+
+2. **Full Stack Developer at Snapcheck.com (Product-Based), Noida**  
+   July 2019 - May 2021
+   - Developed and secured applications using Node.js and Passport authentication.
+   - Optimized application performance and MongoDB queries.
+   - Technologies: Node.js, Express, MongoDB, Handlebars Templates, Passport, HTML, CSS, jQuery, Git, AWS
+
+3. **UI Developer at Taxspanner.com (Product-Based), Delhi**  
+   February 2016 - June 2019
+   - Developed a real-time dashboard for managing ITR and TDS.
+   - Designed the application following Angular Material design specifications.
+   - Technologies: AngularJS, Angular Material, JavaScript, Bootstrap, HTML5, CSS3, Git, SASS, Gulp, Webpack
+
+### Education
+
+- **MCA** from Swami Vivekanand Subharti University (SVSU), UP (2021)
+- **BCA** from Swami Vivekananda University (SVU), MP (2016)
+- **XII Standard** from V.V.S.S. School, Baran (Kota), Rajasthan (2009)
+- **X Standard** from P.A.V.M. School, Dausa, Rajasthan (2007)
+
+### Additional Activities and Achievements
+
+- Conduct regular training sessions on Angular and related topics.
+- Attended a comprehensive system design workshop.
+- Started writing a blog focusing on front-end development.
+
+### Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/harish-verma-831599a7/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 <a href="https://www.facebook.com/harish.verma.96155">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
+</p>
+
 
