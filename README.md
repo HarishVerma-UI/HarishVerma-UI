@@ -1,7 +1,11 @@
 # Hi 👋, I'm Harish, a Software Engineer based in Bengaluru, India
 
-### Download my Cv 
-![Harish Kumar Verma](https://github.com/harishwordpress/harishcv/raw/master/cv.png)
+### Download my CV 
+<p align="center">
+  <a href="https://github.com/harishwordpress/harishcv/raw/master/HarishKumarVerma.pdf">
+    <img src="https://github.com/harishwordpress/harishcv/raw/master/cv.png" width="100" alt="Harish Kumar Verma's CV">
+  </a>
+</p>
 
 ### Now
 
@@ -21,14 +25,14 @@
 
 ### My Current Stack
 
-- **Angular 2+**
+- **Angular 2+ to angular 18**
 - **Tailwind CSS**
 - **HTML5**
 - **TypeScript**
 - **RxJS**
 - **Jest**
-
-### Development Stuffs
+- **REACT**
+- **NX**
 
 ### Recent Activity
 
@@ -82,5 +86,3 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
 </p>
-
-
