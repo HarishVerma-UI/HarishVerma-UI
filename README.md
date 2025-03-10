@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harish, a Software Engineer based in Bengaluru, India
+# Hi 👋, I'm Harish
 
 ### Download my CV 
 <p align="center">
@@ -8,8 +8,6 @@
 </p>
 
 ### Now
-
-- ✨ Contributing to [Harish](https://github.com/HarishVerma-UI)
 - 🔥 Interested in Front-end and Angular
 - 📅 Looking to contribute to Python-based open-source projects
 
