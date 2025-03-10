@@ -1,12 +1,5 @@
 # Hi 👋, I'm Harish
 
-### Download my CV 
-<p align="center">
-  <a href="https://github.com/harishwordpress/harishcv/raw/master/HarishKumarVerma.pdf">
-    <img src="https://github.com/harishwordpress/harishcv/raw/master/cv.png" width="100" alt="Harish Kumar Verma's CV">
-  </a>
-</p>
-
 ### Now
 - 🔥 Interested in Front-end and Angular
 - 📅 Looking to contribute to Python-based open-source projects
@@ -83,4 +76,11 @@
 <a href="https://www.facebook.com/harish.verma.96155">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
+</p>
+
+### Download my CV 
+<p align="center">
+  <a href="https://github.com/harishwordpress/harishcv/raw/master/HarishKumarVerma.pdf">
+    <img src="https://github.com/harishwordpress/harishcv/raw/master/cv.png" width="100" alt="Harish Kumar Verma's CV">
+  </a>
 </p>
