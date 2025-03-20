@@ -32,6 +32,13 @@
 - [Tailwind CSS: A Utility-First CSS Framework for Rapidly Building Custom Designs](https://www.devonblog.com/software-development/tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs/)
 - [Sharing Data Between Micro Frontends in Angular](https://www.devonblog.com/software-development/tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs/)
 - [Package Managers in JavaScript](https://www.devonblog.com/continuous-delivery/package-managers-in-javascript/)
+- [https://medium.com/@harishverma_79323]
+  -Understanding ng-content in Angular: A Guide to Content Projection
+  -Introduction to NgRx: The Essential Guide to State Management in Angular
+  -Understanding React Hooks: A Comprehensive Guide
+  -HTML5: Revolutionizing Web Development
+  -How Angular Applications Bootstrap
+  -Migrating an Angular Application from AngularJS to Angular 2 or Above
 
 ### Work Experience
 
