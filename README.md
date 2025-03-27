@@ -2,7 +2,7 @@
 
 ### Now
 - 🔥 Interested in Front-end and Angular
-- 📅 Looking to contribute to Python-based open-source projects
+- 📅 Looking to contribute to good open-source projects
 
 ### Bio
 
