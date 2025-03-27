@@ -87,7 +87,7 @@
 
 ### Download my CV 
 <p align="center">
-  <a href="https://github.com/harishwordpress/harishcv/raw/master/HarishKumarVerma.pdf">
+  <a href="https://github.com/harishwordpress/harishcv/raw/master/Harish_Verma_UI.pdf">
     <img src="https://github.com/harishwordpress/harishcv/raw/master/cv.png" width="100" alt="Harish Kumar Verma's CV">
   </a>
 </p>
